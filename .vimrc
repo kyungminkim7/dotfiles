@@ -12,3 +12,4 @@ set wildmenu
 
 " Editor
 set number
+set autoindent
