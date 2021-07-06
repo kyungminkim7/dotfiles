@@ -14,3 +14,6 @@ set wildmenu
 set number
 set autoindent
 set incsearch
+
+colorscheme industry
+syntax on
